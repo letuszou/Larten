@@ -3,4 +3,19 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!--随机颜色-->
+    <color name="white">#ffffff</color>
+
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#00FF7F</color>
+    <color name="light">#FAFAD2</color>
+    <color name="SkyBlue">#87CEEB</color>
+    <color name="Pink">#FFC0CB</color>
+    <color name="LawnGreen">#7CFC00</color>
+
+    <color name="gray">#eeeeee</color>
+    <color name="black">#000000</color>
+
+
 </resources>
